@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "ramin",
+      "age": "19",
+      "password": "dada123",
+      "isAdmin": true,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Slave",
+      "price": "0708476435",
+      "desc": "dungeon master",
+      "image": "https://www.meme-arsenal.com/memes/32e6106e3d66ee3c4ef5b28b9fc1c9f3.jpg",
+      "category": "gachi"
+    },
+    {
+      "id": 2,
+      "title": "Master",
+      "price": "0555424658",
+      "desc": "two masters",
+      "image": "https://www.meme-arsenal.com/memes/1fb14d2e8bffb0830f3fe389f83c7799.jpg",
+      "category": "gachi"
+    },
+    {
+      "title": "Natural Man",
+      "price": "80000",
+      "desc": "best of the best",
+      "image": "https://content.jdmagicbox.com/comp/pune/j7/020pxx20.xx20.190314182137.m8j7/catalogue/gym-master-hadapsar-pune-gyms-xzh2dswi72-250.jpg",
+      "category": "naturals",
+      "id": 3
+    }
+  ]
+}
